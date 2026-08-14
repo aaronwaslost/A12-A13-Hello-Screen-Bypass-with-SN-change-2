@@ -109,3 +109,12 @@ no activation banner.
 - On baseband devices, `HasBaseband (3192)=1` keeps Settings → About from freezing.
 - The RSA private key inside `act.php` is the FE00 signing identity — treat it as
   the tool's signing material.
+
+## ☕ Buy Me a Coffee
+
+If this tool helped you unlock or bypass your device, consider buying me a coffee:
+
+- **Buy Me a Coffee:** https://www.buymeacoffee.com/bunnyciaa
+- **PayPal:** https://www.paypal.com/paypalme/bunnyciaa
+
+Every coffee keeps the A12/A13 bypass scripts maintained and updated. Thanks! 🙏
