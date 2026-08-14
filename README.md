@@ -114,7 +114,6 @@ no activation banner.
 
 If this tool helped you unlock or bypass your device, consider buying me a coffee:
 
-- **Buy Me a Coffee:** https://www.buymeacoffee.com/bunnyciaa
-- **PayPal:** https://www.paypal.com/paypalme/bunnyciaa
+- **BINANCE:** ACCOUNT : 589455835
 
-Every coffee keeps the A12/A13 bypass scripts maintained and updated. Thanks! 🙏
+Every coffee keeps the A12/A13 bypass scripts maintained and updated. Thanks! 
